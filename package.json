@@ -1,7 +1,7 @@
 {
-“name”: “ChasmRift Bot”,
+“name”: “chasmrift bot”,
 “version”: “1.0.0”,
-“description”: “Bot for ChasmRift Demons”,
+“description”: “bot for chasmRift demons”,
 “main”: “bot.js”,
 “author”: “Commander Asher”,
 “dependencies”: {}
